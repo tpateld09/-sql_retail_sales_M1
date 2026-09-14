@@ -208,19 +208,19 @@ Through this project, I practiced:
 
 SELECT,
 WHERE,
-GROUP BY
-ORDER BY
-LIMIT
-COUNT()
-COUNT(DISTINCT)
-SUM()
-AVG()
-ROUND()
-EXTRACT()
-CASE
-Common Table Expressions (WITH)
-Window functions
-RANK()
+GROUP BY,
+ORDER BY,
+LIMIT,
+COUNT(),
+COUNT(DISTINCT),
+SUM(),
+AVG(),
+ROUND(),
+EXTRACT(),
+CASE,
+Common Table Expressions (WITH),
+Window functions,
+RANK(),
 Basic data cleaning and NULL handling
 
 More importantly, I learned how SQL can be used to move from raw **transaction data → analysis → business insights**.
