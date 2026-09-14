@@ -206,8 +206,8 @@ GROUP BY shift
 ## What I Learned 
 Through this project, I practiced:
 
-SELECT
-WHERE
+SELECT,
+WHERE,
 GROUP BY
 ORDER BY
 LIMIT
